@@ -1,0 +1,6 @@
+{
+	"Pag1":{"Links":["Pag2","Pag3","Pag4"]},
+	"Pag2":{"Links":["Pag1","Pag3"]},
+	"Pag3":{"Links":["Pag1","Pag4"]},
+	"Pag4":{"Links":["Pag1","Pag2","Pag3"]},
+}
