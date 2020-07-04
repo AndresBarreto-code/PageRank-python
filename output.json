@@ -1,0 +1,1 @@
+{"Pag1": {"Links": ["Pag2", "Pag3", "Pag4"], "Ranking": 100000}, "Pag2": {"Links": ["Pag1", "Pag3"], "Ranking": 59084}, "Pag3": {"Links": ["Pag1", "Pag4"], "Ranking": 89006}, "Pag4": {"Links": ["Pag1", "Pag2", "Pag3"], "Ranking": 77767}}
